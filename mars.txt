@@ -1,3 +1,8 @@
 hello, the mistake was trying to create a branch before committing a file 
 first.
 Here is a new line.  Well, let me add a few more words.
+Lets try again
+OK version control seems to be working now...  just do a commit and, in quotes, 
+create a new descriptive name.
+this should be the line in the 3rd commit.
+No, THIS should be the line in the 3rd commit
